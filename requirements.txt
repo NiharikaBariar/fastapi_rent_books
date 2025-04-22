@@ -1,0 +1,10 @@
+FastAPI
+uvicorn
+SQLAlchemy
+pydantic
+databases
+asyncpg
+pytest
+httpx
+passlib
+bcrypt
